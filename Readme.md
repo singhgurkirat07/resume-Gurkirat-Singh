@@ -2,14 +2,6 @@
 
 AI/ML Undergraduate at Chandigarh University.
 
-## Resume
-
-📄 **Latest Resume**
-
-[Gurkirat_Singh_Resume.pdf](./Gurkirat_Singh_Resume.pdf)
-
----
-
 ## Profiles
 
 - GitHub: https://github.com/singhgurkirat07
